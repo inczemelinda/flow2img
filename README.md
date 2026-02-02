@@ -1,6 +1,6 @@
 # flow2img — PCAP-to-Image IoT Traffic Classification
 
-This project converts raw network traffic captures (**PCAP**) into grayscale images and trains a CNN (**ResNet18**) for **multi-class IoT traffic classification**. The workflow is designed to be simple, reproducible, and suitable for a student research project.
+This project converts raw network traffic captures (**PCAP**) into grayscale images and trains a CNN (**ResNet18**) for **multi-class IoT traffic classification**. 
 
 ## Overview
 **Goal:** classify IoT network traffic into 5 classes (benign + 4 attacks) by:
